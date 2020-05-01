@@ -87,6 +87,7 @@ en:
         team_set: "%{name} is now on Team %{team}."
         team_header: "-- Team %{team} --"
         
+        invalid_vehicle: "That vehicle does not exist."
         invalid_vehicle_name: "That is not a valid vehicle name or vehicle type."
         not_in_vehicle: "%{name} is not in a vehicle."
         new_pilot: "%{name} takes over piloting %{vehicle}."
